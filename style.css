@@ -1,0 +1,1085 @@
+body {
+    margin: 0px ;
+}
+
+.top {
+    background-color: blue;
+    height: 100px ;
+    background-image: url('https://img.goodfon.com/wallpaper/big/2/6d/karandashi-cvet-krug.webp');
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+}
+.m1 {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+}
+/* top -/ */
+.buttom{
+    display: flex;
+    justify-content: center;
+}
+
+.start {
+    width: 300px ;
+    height: 210px ;
+    box-shadow: 1px 1px 4px 0px ;
+    position: relative;
+    top: 30px ;
+    left: 50px ;
+    border-top: 7px solid red;
+    border-radius: 15px 15px 15px 0px ;
+    animation-name: start-mover;
+    animation-duration: 4s;
+    /* animation-fill-mode: forwards; */
+    
+
+}
+.start1 {
+    width: 300px ;
+    height: 210px ;
+    box-shadow: 1px 1px 4px 0px ;
+    position: relative;
+    top: 30px ;
+    left: 50px ;
+    border-top: 7px solid red;
+    border-radius: 15px 15px 15px 0px ;
+    margin-left: 30px ;
+}
+
+.start2 {
+    width: 300px ;
+    height: 210px ;
+    box-shadow: 1px 1px 4px 0px ;
+    position: relative;
+    top: 30px ;
+    left: 50px ;
+    border-top: 7px solid red;
+    border-radius: 15px 15px 15px 0px ;
+    margin-left: 30px ;
+}
+
+.start3 {
+    width: 300px ;
+    height: 210px ;
+    box-shadow: 1px 1px 4px 0px ;
+    position: relative;
+    top: 30px ;
+    left: 50px ;
+    border-top: 7px solid red;
+    border-radius: 15px 15px 15px 0px ;
+    margin-left: 30px ;
+}
+
+.start4 {
+    width: 300px ;
+    height: 210px ;
+    box-shadow: 1px 1px 4px 0px ;
+    position: relative;
+    top: 30px ;
+    left: 50px ;
+    border-top: 7px solid red;
+    border-radius: 15px 15px 15px 0px ;
+    margin-left: 30px ;
+}
+
+.buttom1{
+    display: flex;
+    justify-content: center;
+}
+    .start5 {
+        width: 300px ;
+        height: 210px ;
+        box-shadow: 1px 1px 4px 0px ;
+        position: relative;
+        top: 30px ;
+        left: 50px ;
+        border-top: 7px solid red;
+        border-radius: 15px 15px 15px 0px ;
+        margin-top: 30px ;
+    }
+
+    .start6 {
+        width: 300px ;
+        height: 210px ;
+        box-shadow: 1px 1px 4px 0px ;
+        position: relative;
+        top: 30px ;
+        left: 50px ;
+        border-top: 7px solid red;
+        border-radius: 15px 15px 15px 0px ;
+        margin-top: 30px ;
+        margin-left: 30px ;
+    }
+
+    .start7 {
+        width: 300px ;
+        height: 210px ;
+        box-shadow: 1px 1px 4px 0px ;
+        position: relative;
+        top: 30px ;
+        left: 50px ;
+        border-top: 7px solid red;
+        border-radius: 15px 15px 15px 0px ;
+        margin-top: 30px ;
+        margin-left: 30px ;
+    }
+
+    .start8 {
+        width: 300px ;
+        height: 210px ;
+        box-shadow: 1px 1px 4px 0px ;
+        position: relative;
+        top: 30px ;
+        left: 50px ;
+        border-top: 7px solid red;
+        border-radius: 15px 15px 15px 0px ;
+        margin-top: 30px ;
+        margin-left: 30px ;
+    }
+
+    .start9 {
+        width: 300px ;
+        height: 210px ;
+        box-shadow: 1px 1px 4px 0px ;
+        position: relative;
+        top: 30px ;
+        left: 50px ;
+        border-top: 7px solid red;
+        border-radius: 15px 15px 15px 0px ;
+        margin-top: 30px ;
+        margin-left: 30px ;
+    }
+
+    .buttom2{
+        display:flex ;
+        justify-content: center;
+    }
+    .start10 {
+        width: 300px ;
+        height: 210px ;
+        box-shadow: 1px 1px 4px 0px ;
+        position: relative;
+        top: 30px ;
+        left: 50px ;
+        border-top: 7px solid red;
+        border-radius: 15px 15px 15px 0px ;
+        margin-top: 30px ;
+       
+    }
+    .start11 {
+        width: 300px ;
+        height: 210px ;
+        box-shadow: 1px 1px 4px 0px ;
+        position: relative;
+        top: 30px ;
+        left: 50px ;
+        border-top: 7px solid red;
+        border-radius: 15px 15px 15px 0px ;
+        margin-top: 30px ;
+        margin-left: 30px ;
+    }
+    .start12 {
+        width: 300px ;
+        height: 210px ;
+        box-shadow: 1px 1px 4px 0px ;
+        position: relative;
+        top: 30px ;
+        left: 50px ;
+        border-top: 7px solid red;
+        border-radius: 15px 15px 15px 0px ;
+        margin-top: 30px ;
+        margin-left: 30px ;
+    }
+    .start13 {
+        width: 300px ;
+        height: 210px ;
+        box-shadow: 1px 1px 4px 0px ;
+        position: relative;
+        top: 30px ;
+        left: 50px ;
+        border-top: 7px solid red;
+        border-radius: 15px 15px 15px 0px ;
+        margin-top: 30px ;
+        margin-left: 30px ;
+    }
+    .start14 {
+        width: 300px ;
+        height: 210px ;
+        box-shadow: 1px 1px 4px 0px ;
+        position: relative;
+        top: 30px ;
+        left: 50px ;
+        border-top: 7px solid red;
+        border-radius: 15px 15px 15px 0px ;
+        margin-top: 30px ;
+        margin-left: 30px ;
+    }
+   
+    .buttom3{
+        display:flex;
+        justify-content: center;
+    }
+    .start15 {
+        width: 300px ;
+        height: 210px ;
+        box-shadow: 1px 1px 4px 0px ;
+        position: relative;
+        top: 30px ;
+        left: 50px ;
+        border-top: 7px solid red;
+        border-radius: 15px 15px 15px 0px ;
+        margin-top: 30px ;
+      
+    }
+    .start16 {
+        width: 300px ;
+        height: 210px ;
+        box-shadow: 1px 1px 4px 0px ;
+        position: relative;
+        top: 30px ;
+        left: 50px ;
+        border-top: 7px solid red;
+        border-radius: 15px 15px 15px 0px ;
+        margin-top: 30px ;
+        margin-left: 30px ;
+    }
+    .start17 {
+        width: 300px ;
+        height: 210px ;
+        box-shadow: 1px 1px 4px 0px ;
+        position: relative;
+        top: 30px ;
+        left: 50px ;
+        border-top: 7px solid blue;
+        border-radius: 15px 15px 15px 0px ;
+        margin-top: 30px ;
+        margin-left: 30px ;
+    }
+    .start18 {
+        width: 300px ;
+        height: 210px ;
+        box-shadow: 1px 1px 4px 0px ;
+        position: relative;
+        top: 30px ;
+        left: 50px ;
+        border-top: 7px solid red;
+        border-radius: 15px 15px 15px 0px ;
+        margin-top: 30px ;
+        margin-left: 30px ;
+    }
+    .start19 {
+        width: 300px ;
+        height: 210px ;
+        box-shadow: 1px 1px 4px 0px ;
+        position: relative;
+        top: 30px ;
+        left: 50px ;
+        border-top: 7px solid red;
+        border-radius: 15px 15px 15px 0px ;
+        margin-top: 30px ;
+        margin-left: 30px ;
+    }
+    .buttom4{
+        display: flex;
+        justify-content: center;
+    }
+    .start21 {
+        width: 300px ;
+        height: 210px ;
+        box-shadow: 1px 1px 4px 0px ;
+        position: relative;
+        top: 30px ;
+        left: 50px ;
+        border-top: 7px solid red;
+        border-radius: 15px 15px 15px 0px ;
+        margin-top: 30px ;
+       
+    }
+    .start22 {
+        width: 300px ;
+        height: 210px ;
+        box-shadow: 1px 1px 4px 0px ;
+        position: relative;
+        top: 30px ;
+        left: 50px ;
+        border-top: 7px solid red;
+        border-radius: 15px 15px 15px 0px ;
+        margin-top: 30px ;
+        margin-left: 30px ;
+    }
+    /* buttom-/ */
+      .text {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+      .text1 {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+      .text2 {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+      .text3 {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+      .text4 {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+      .text5 {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+      .text6 {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+      .text7 {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+      .text89 {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+      .text9 {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+      .text10 {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+      .text11 {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+      .text12 {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+      .text13 {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+      .text14 {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+      
+      .text15 {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+      .text16 {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+      .text17 {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+      .text18 {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+      .text19 {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+      .text20 {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+      .text21 {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+      .text22 {
+        position: relative;
+        top: 60px ;
+        font-size: 13px ;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    @media (max-width: 480px){
+
+       
+
+        body{
+            font-size: 15px ;
+            margin: 0px ;
+        }
+        .n1{
+            width: 160px ;
+            height: 60px ;
+            margin: auto;
+            position: relative;
+            top: 25px ;
+          
+        }
+        .buttom{
+           align-items: center;
+           position: relative;
+           right: 25px ;
+           
+
+            .start{
+                width: 15% ;
+                height: 55px ;
+                box-shadow: 1px 1px 4px 0px ;
+                position: relative;
+                top: 35px ;
+                left: 25px ;
+                border-top: 7px solid red;
+                border-radius: 15px 15px 15px 0px ;
+                margin-top: 25px ;
+             
+              
+            }
+           .start:active {
+                background-color:red;
+                border-top: 7px solid blue;
+
+           } 
+            
+           .start:focus {
+            background-color: white;
+              border-top: 7px solid red;
+              width: 15% ;
+              height: 55px ;
+            
+           }
+         
+           
+
+            
+
+
+
+        .start1 {
+            width: 15% ;
+            height: 55px ;
+            box-shadow: 1px 1px 4px 0px ;
+            position: relative;
+            top: 35px ;
+            left: 25px ;
+            border-top: 7px solid red;
+            border-radius: 15px 15px 15px 0px ;
+            margin-top: 25px ;
+            margin-left: 10px ;
+           
+        }
+        .start1:active {
+            background-color:red;
+            border-top: 7px solid blue;
+
+       } 
+        
+       .start1:focus {
+        background-color: white;
+          border-top: 7px solid red;
+          width: 15% ;
+          height: 55px ;
+        
+       }
+        .start2 {
+            width: 15% ;
+            height: 55px ;
+            box-shadow: 1px 1px 4px 0px ;
+            position: relative;
+            top: 35px ;
+            left: 25px ;
+            border-top: 7px solid red;
+            border-radius: 15px 15px 15px 15px ;
+            margin-top: 25px ;
+            margin-left: 10px ;
+           
+        }
+        .start2:active {
+            background-color:red;
+            border-top: 7px solid blue;
+
+       } 
+        
+       .start2:focus {
+        background-color: white;
+          border-top: 7px solid red;
+          width: 15% ;
+          height: 55px ;
+        
+       }
+        .start3 {
+            width: 15% ;
+            height: 55px ;
+            box-shadow: 1px 1px 4px 0px ;
+            position: relative;
+            top: 35px ;
+            left: 25px ;
+            border-top: 7px solid red;
+            border-radius: 15px 15px 0px 15px ;
+            margin-top: 25px ;
+            margin-left: 10px ;
+           
+        }
+        .start3:active {
+            background-color:red;
+            border-top: 7px solid blue;
+
+       } 
+        
+       .start3:focus {
+        background-color: white;
+          border-top: 7px solid red;
+          width: 15% ;
+          height: 55px ;
+        
+       }
+        .start4 {
+            width: 15% ;
+            height: 55px ;
+            box-shadow: 1px 1px 4px 0px ;
+            position: relative;
+            top: 35px ;
+            left: 25px ;
+            border-top: 7px solid red;
+            border-radius: 15px 15px 0px 15px ;
+            margin-top: 25px ;
+            margin-left: 10px ;
+           
+        }
+        .start4:active {
+            background-color:red;
+            border-top: 7px solid blue;
+
+       } 
+        
+       .start4:focus {
+        background-color: white;
+          border-top: 7px solid red;
+          width: 15% ;
+          height: 55px ;
+        
+       }
+        
+    }
+    .buttom1{
+        align-items: center;
+        position: relative;
+        right: 25px ;
+        
+
+     .start5 {
+         width: 15% ;
+         height: 55px ;
+         box-shadow: 1px 1px 4px 0px ;
+         position: relative;
+         top: 35px ;
+         left: 25px ;
+         border-top: 7px solid red;
+         border-radius: 15px 15px 15px 0px ;
+         margin-top: 25px ;
+        
+     }
+     .start5:active {
+        background-color:red;
+        border-top: 7px solid blue;
+
+   } 
+    
+   .start5:focus {
+    background-color: white;
+      border-top: 7px solid red;
+      width: 15% ;
+      height: 55px ;
+    
+   }
+     .start6 {
+         width: 15% ;
+         height: 55px ;
+         box-shadow: 1px 1px 4px 0px ;
+         position: relative;
+         top: 35px ;
+         left: 25px ;
+         border-top: 7px solid red;
+         border-radius: 15px 15px 15px 0px ;
+         margin-top: 25px ;
+         margin-left: 10px ;
+        
+     }
+     .start6:active {
+        background-color:red;
+        border-top: 7px solid blue;
+
+   } 
+    
+   .start6:focus {
+    background-color: white;
+      border-top: 7px solid red;
+      width: 15% ;
+      height: 55px ;
+    
+   }
+     .start7 {
+         width: 15% ;
+         height: 55px ;
+         box-shadow: 1px 1px 4px 0px ;
+         position: relative;
+         top: 35px ;
+         left: 25px ;
+         border-top: 7px solid red;
+         border-radius: 15px 15px 15px 15px ;
+         margin-top: 25px ;
+         margin-left: 10px ;
+        
+     }
+     .start7:active {
+        background-color:red;
+        border-top: 7px solid blue;
+
+   } 
+    
+   .start7:focus {
+    background-color: white;
+      border-top: 7px solid red;
+      width: 15% ;
+      height: 55px ;
+    
+   }
+     .start8 {
+         width: 15% ;
+         height: 55px ;
+         box-shadow: 1px 1px 4px 0px ;
+         position: relative;
+         top: 35px ;
+         left: 25px ;
+         border-top: 7px solid red;
+         border-radius: 15px 15px 0px 15px ;
+         margin-top: 25px ;
+         margin-left: 10px ;
+        
+     }
+     .start8:active {
+        background-color:red;
+        border-top: 7px solid blue;
+
+   } 
+    
+   .start8:focus {
+    background-color: white;
+      border-top: 7px solid red;
+      width: 15% ;
+      height: 55px ;
+    
+   }
+     .start9 {
+         width: 15% ;
+         height: 55px ;
+         box-shadow: 1px 1px 4px 0px ;
+         position: relative;
+         top: 35px ;
+         left: 25px ;
+         border-top: 7px solid red;
+         border-radius: 15px 15px 0px 15px ;
+         margin-top: 25px ;
+         margin-left: 10px ;
+        
+     }
+     .start9:active {
+        background-color:red;
+        border-top: 7px solid blue;
+
+   } 
+    
+   .start8:focus {
+    background-color: white;
+      border-top: 7px solid red;
+      width: 15% ;
+      height: 55px ;
+    
+   }
+    }
+    .buttom2{
+        align-items: center;
+        position: relative;
+        right: 25px ;
+        
+
+     .start10 {
+         width: 15% ;
+         height: 55px ;
+         box-shadow: 1px 1px 4px 0px ;
+         position: relative;
+         top: 35px ;
+         left: 25px ;
+         border-top: 7px solid red;
+         border-radius: 15px 15px 15px 0px ;
+         margin-top: 25px ;
+        
+     }
+     .start10:active {
+        background-color:red;
+        border-top: 7px solid blue;
+
+   } 
+    
+   .start10:focus {
+    background-color: white;
+      border-top: 7px solid red;
+      width: 15% ;
+      height: 55px ;
+    
+   }
+     .start11 {
+         width: 15% ;
+         height: 55px ;
+         box-shadow: 1px 1px 4px 0px ;
+         position: relative;
+         top: 35px ;
+         left: 25px ;
+         border-top: 7px solid red;
+         border-radius: 15px 15px 15px 0px ;
+         margin-top: 25px ;
+         margin-left: 10px ;
+        
+     }
+     .start11:active {
+        background-color:red;
+        border-top: 7px solid blue;
+
+   } 
+    
+   .start11:focus {
+    background-color: white;
+      border-top: 7px solid red;
+      width: 15% ;
+      height: 55px ;
+    
+   }
+     .start12 {
+         width: 15% ;
+         height: 55px ;
+         box-shadow: 1px 1px 4px 0px ;
+         position: relative;
+         top: 35px ;
+         left: 25px ;
+         border-top: 7px solid red;
+         border-radius: 15px 15px 15px 15px ;
+         margin-top: 25px ;
+         margin-left: 10px ;
+        
+     }
+     .start12:active {
+        background-color:red;
+        border-top: 7px solid blue;
+
+   } 
+    
+   .start12:focus {
+    background-color: white;
+      border-top: 7px solid red;
+      width: 15% ;
+      height: 55px ;
+    
+   }
+     .start13 {
+         width: 15% ;
+         height: 55px ;
+         box-shadow: 1px 1px 4px 0px ;
+         position: relative;
+         top: 35px ;
+         left: 25px ;
+         border-top: 7px solid red;
+         border-radius: 15px 15px 0px 15px ;
+         margin-top: 25px ;
+         margin-left: 10px ;
+        
+     }
+     .start13:active {
+        background-color:red;
+        border-top: 7px solid blue;
+
+   } 
+    
+   .start13:focus {
+    background-color: white;
+      border-top: 7px solid red;
+      width: 15% ;
+      height: 55px ;
+    
+   }
+     .start14 {
+         width: 15% ;
+         height: 55px ;
+         box-shadow: 1px 1px 4px 0px ;
+         position: relative;
+         top: 35px ;
+         left: 25px ;
+         border-top: 7px solid red;
+         border-radius: 15px 15px 0px 15px ;
+         margin-top: 25px ;
+         margin-left: 10px ;
+        
+     }
+     .start14:active {
+        background-color:red;
+        border-top: 7px solid blue;
+
+   } 
+    
+   .start14:focus {
+    background-color: white;
+      border-top: 7px solid red;
+      width: 15% ;
+      height: 55px ;
+    
+   }
+    }
+
+     .buttom3{
+        align-items: center;
+        position: relative;
+        right: 25px ;
+        
+
+     .start15 {
+         width: 15% ;
+         height: 55px ;
+         box-shadow: 1px 1px 4px 0px ;
+         position: relative;
+         top: 35px ;
+         left: 25px ;
+         border-top: 7px solid red;
+         border-radius: 15px 15px 15px 0px ;
+         margin-top: 25px ;
+        
+     }
+     .start15:active {
+        background-color:red;
+        border-top: 7px solid blue;
+
+   } 
+    
+   .start15:focus {
+    background-color: white;
+      border-top: 7px solid red;
+      width: 15% ;
+      height: 55px ;
+    
+   }
+     .start16 {
+         width: 15% ;
+         height: 55px ;
+         box-shadow: 1px 1px 4px 0px ;
+         position: relative;
+         top: 35px ;
+         left: 25px ;
+         border-top: 7px solid red;
+         border-radius: 15px 15px 15px 0px ;
+         margin-top: 25px ;
+         margin-left: 10px ;
+        
+     }
+     .start16:active {
+        background-color:red;
+        border-top: 7px solid blue;
+
+   } 
+    
+   .start16:focus {
+    background-color: white;
+      border-top: 7px solid red;
+      width: 15% ;
+      height: 55px ;
+    
+   }
+     .start17 {
+         width: 15% ;
+         height: 55px ;
+         box-shadow: 1px 1px 4px 0px ;
+         position: relative;
+         top: 35px ;
+         left: 25px ;
+         border-top: 7px solid red;
+         border-radius: 15px 15px 15px 15px ;
+         margin-top: 25px ;
+         margin-left: 10px ;
+        
+     }
+     .start17:active {
+        background-color:red;
+        border-top: 7px solid blue;
+
+   } 
+    
+   .start17:focus {
+    background-color: white;
+      border-top: 7px solid red;
+      width: 15% ;
+      height: 55px ;
+    
+   }
+     .start18 {
+         width: 15% ;
+         height: 55px ;
+         box-shadow: 1px 1px 4px 0px ;
+         position: relative;
+         top: 35px ;
+         left: 25px ;
+         border-top: 7px solid red;
+         border-radius: 15px 15px 0px 15px ;
+         margin-top: 25px ;
+         margin-left: 10px ;
+        
+     }
+     .start18:active {
+        background-color:red;
+        border-top: 7px solid blue;
+
+   } 
+    
+   .start18:focus {
+    background-color: white;
+      border-top: 7px solid red;
+      width: 15% ;
+      height: 55px ;
+    
+   }
+     .start19 {
+         width: 15% ;
+         height: 55px ;
+         box-shadow: 1px 1px 4px 0px ;
+         position: relative;
+         top: 35px ;
+         left: 25px ;
+         border-top: 7px solid red;
+         border-radius: 15px 15px 0px 15px ;
+         margin-top: 25px ;
+         margin-left: 10px ;
+        
+     }
+     .start19:active {
+        background-color:red;
+        border-top: 7px solid blue;
+
+   } 
+    
+   .start19:focus {
+    background-color: white;
+      border-top: 7px solid red;
+      width: 15% ;
+      height: 55px ;
+    
+   }
+    }
+    .buttom4{
+        align-items: center;
+        position: relative;
+        right: 25px ;
+        
+
+     .start21 {
+         width: 15% ;
+         height: 55px ;
+         box-shadow: 1px 1px 4px 0px ;
+         position: relative;
+         top: 35px ;
+         left: 25px ;
+         border-top: 7px solid red;
+         border-radius: 15px 15px 15px 0px ;
+         margin-top: 25px ;
+        
+     }
+     .start21:active {
+        background-color:red;
+        border-top: 7px solid blue;
+
+   } 
+    
+   .start21:focus {
+    background-color: white;
+      border-top: 7px solid red;
+      width: 15% ;
+      height: 55px ;
+    
+   }
+     .start22 {
+         width: 15% ;
+         height: 55px ;
+         box-shadow: 1px 1px 4px 0px ;
+         position: relative;
+         top: 35px ;
+         left: 25px ;
+         border-top: 7px solid red;
+         border-radius: 15px 15px 0px 15px ;
+         margin-top: 25px ;
+         margin-left: 10px ;
+        
+     }
+     .start22:active {
+        background-color:red;
+        border-top: 7px solid blue;
+
+   } 
+    
+   .start22:focus {
+    background-color: white;
+      border-top: 7px solid red;
+      width: 15% ;
+      height: 55px ;
+    
+   }
+    }
+    
+
+        
+
+
+
+        }
